@@ -3,7 +3,7 @@ My portfolio
 
 ## TODO
 
-### make directorㅑes & files
+### make Directories & files
 
 - [ ] `index.html`
 - [ ] `css/style.css`
