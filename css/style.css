@@ -1,0 +1,17 @@
+body {
+	height: 100vh;
+	margin: 0;
+	background: url("../images/photo1_modified.jpg") no-repeat center;
+	color: #fff;
+
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 0.23em;
+}
+
